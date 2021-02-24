@@ -1,5 +1,3 @@
-/* eslint-disable comma-dangle */
-/* eslint-disable object-curly-newline */
 import React, { useCallback, useEffect, useState } from 'react';
 import { useHistory } from 'react-router-dom';
 import { Container, SuggestOrder, Button, Details } from './styles';

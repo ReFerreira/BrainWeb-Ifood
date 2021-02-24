@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import React, { createContext, useContext, useState } from 'react';
 
 const OrderContext = createContext();

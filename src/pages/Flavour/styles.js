@@ -25,7 +25,6 @@ export const ProductList = styled.div`
 
   li {
     display: flex;
-    /* padding: 20px; */
     list-style: none;
     cursor: pointer;
     border-radius: 8px;

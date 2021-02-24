@@ -1,4 +1,3 @@
-/* eslint-disable comma-dangle */
 import React from 'react';
 import { useHistory } from 'react-router-dom';
 import { formatPrice } from '../../util/format';
@@ -11,7 +10,6 @@ function Resume() {
 
   const history = useHistory();
 
-  // history.push('/sabor');
   return (
     <Container>
       <h1>Resumo do seu pedido</h1>
